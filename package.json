@@ -4,7 +4,10 @@
   "readme": "NativeScript Application",
   "repository": "<fill-your-repository-here>",
   "nativescript": {
-    "id": "org.nativescript.allergyawareapp"
+    "id": "org.nativescript.allergyawareapp",
+    "tns-ios": {
+      "version": "2.5.0"
+    }
   },
   "dependencies": {
     "@angular/common": "2.4.3",
